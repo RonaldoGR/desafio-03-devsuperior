@@ -3,7 +3,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1.1-6DB33F?logo=springboot&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-3.9+-C71A36?logo=apachemaven&logoColor=white) ![H2](https://img.shields.io/badge/H2-Database-1E5A96) ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?logo=hibernate&logoColor=white)
 
-Este projeto foi desenvolvido no capítulo 3 do módulo Spring Professional do curso DevSuperior.
+Este projeto foi desenvolvido no capítulo 3 do módulo Spring Professional do curso [DevSuperior](https://devsuperior.club/).
 
 ### O projeto cumpre com as seguintes operações básicas de um CRUD:
 - Busca paginada de recursos
@@ -155,7 +155,7 @@ O arquivo insere dez clientes fictícios, com diferentes nomes, CPFs, rendas, da
 1. Clone o repositório:
 
 ```bash
-    git clone https://github.com/RonaldoGR/desafio-03-devsuperior.git
+git clone https://github.com/RonaldoGR/desafio-03-devsuperior.git
 ```
 
 2. Entre na pasta do projeto:
